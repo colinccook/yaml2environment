@@ -13,10 +13,10 @@ hosts:
  - name: local
    IP: 127.0.0.1
 git-repositories:
- - url:https://www.github.com/something
+ - url: https://www.github.com/something
    directory: C:\Git\
    branch: develop
- - url:https://www.github.com/something
+ - url: https://www.github.com/something
    directory: C:\Git\
    branch: develop
 dotNetBuild:
